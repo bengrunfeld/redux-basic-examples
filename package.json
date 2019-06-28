@@ -1,0 +1,15 @@
+{
+  "name": "redux-basic-example",
+  "version": "1.0.0",
+  "description": "A simple implementation of Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "redux",
+    "javascript"
+  ],
+  "author": "Ben Grunfeld",
+  "license": "ISC"
+}
