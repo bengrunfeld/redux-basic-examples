@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Ben Grunfeld",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
 }
