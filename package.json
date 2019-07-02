@@ -1,7 +1,7 @@
 {
-  "name": "redux-basic-example",
+  "name": "redux-basic-examples",
   "version": "1.0.0",
-  "description": "A simple implementation of Redux",
+  "description": "Remind myself how to use Redux",
   "main": "index.js",
   "scripts": {
     "test": "test"
